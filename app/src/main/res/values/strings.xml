@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleSplashScreen12</string>
+    <string name="hello_world_n_after_splash_screen">Hello World! n After splash screen</string>
+</resources>

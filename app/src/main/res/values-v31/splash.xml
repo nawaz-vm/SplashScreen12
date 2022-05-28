@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.Starting" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/teal_200</item>
+
+        //If you want custom Icon you ca set here
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_baseline_control_camera_24</item>-->
+        <item name="postSplashScreenTheme">@style/Theme.SampleSplashScreen12</item>
+    </style>
+</resources>
